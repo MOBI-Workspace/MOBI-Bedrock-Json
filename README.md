@@ -1,0 +1,1 @@
+# MOBI-Bedrock-Json
